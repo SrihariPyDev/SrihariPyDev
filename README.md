@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **API's**
 
-- 💬 Ask me about **react,vue,tailwind,JS,Python,Django**
+- 💬 Ask me about **react,vue,tailwind,Bootstrap,JS,Python,Django**
 
 - 📫 How to reach me **tsrihari2152005@gmail.com**
 
